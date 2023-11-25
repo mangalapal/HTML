@@ -1,3 +1,4 @@
 # HTML
 This is my first html repo.
-Aythor- Mangala pal
+<br>
+Author- Mangala pal
